@@ -10,8 +10,8 @@
     "name": "with Discord.",
 
     "web_url": "https://xbota.herokuapp.com/",
-    "github": "https://github.com/codeducks/xBOT",
-    "changelog": "https://codeducks.github.io/xBOT/changelog",
-    "cmds": "https://codeducks.github.io/xBOT",
+    "github": "https://github.com/codeducks/xBOT_lite",
+    "changelog": "https://github.com/codeducks/xBOT_lite",
+    "cmds": "https://github.com/codeducks/xBOT_lite",
     "trello": "https://trello.com/b/5QonRmtn/xbot"
 }
