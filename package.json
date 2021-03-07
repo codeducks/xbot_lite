@@ -1,0 +1,28 @@
+{
+  "name": "xbot-lite",
+  "version": "1.0",
+  "description": "an opensource bot.",
+  "main": "index.js",
+  "repository": "https://github.com/codeducks/xBOT.git",
+  "author": "faultydev",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon index.js",
+    "push": "git push",
+    "debug": "nodemon --inspect app.js"
+  },
+  "dependencies": {
+    "date": "^1.0.2",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "fs": "^0.0.1-security",
+    "got": "^11.8.1",
+    "trello": "^0.10.0",
+    "washyourmouthoutwithsoap": "^1.0.2"
+  },
+  "private": false,
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
